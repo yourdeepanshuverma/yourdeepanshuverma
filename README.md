@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGupta921&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGupta921" /> </p>
+
 # 💫 About Me:
 😁 Building stuffs<br>😀 Upskilling everyday<br>🤓 Curious about tech
 
